@@ -8,11 +8,8 @@
     top: 0;
     left: 0;
     z-index: -1;
-<<<<<<< Updated upstream
-    background-image: url('DVDad.png');
-=======
+
     background-image: url('topLayer.png');
->>>>>>> Stashed changes
 }
 .winscreeen
 {
